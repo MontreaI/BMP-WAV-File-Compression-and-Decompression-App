@@ -17,3 +17,6 @@
 
 ## Instructions
 There are two versions of the application in their appropriately named folders, in each folder are instructions on how to compile the app and produce an executable.
+
+## Sample Files
+A folder of samples have been created containing BMP and WAV files which you can also clone to test the app with.
