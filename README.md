@@ -1,4 +1,4 @@
-# BMP-WV-File-Compression-and-Decompression-App
+# BMP-WAV-File-Compression-and-Decompression-App
 
 ## Features
 
@@ -14,3 +14,6 @@
 1. Generate waveform of WAV file
 2. Display number of samples and maximum sample value of WAV file
 3. Huffman and LZW Compression
+
+## Instructions
+There are two versions of the application in their appropriately named folders, in each folder are instructions on how to compile the app and produce an executable.
